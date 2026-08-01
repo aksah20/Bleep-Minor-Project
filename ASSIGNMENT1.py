@@ -4,7 +4,7 @@
 
 #Q1:- Write a program to input marks in five subjects and calculate the total, percentage, and grade.
 
-m1 = float(input("Enter marks of Subject 1: "))
+'''m1 = float(input("Enter marks of Subject 1: "))
 m2 = float(input("Enter marks of Subject 2: "))
 m3 = float(input("Enter marks of Subject 3: "))
 m4 = float(input("Enter marks of Subject 4: "))
@@ -27,7 +27,7 @@ elif percentage >= 60:
 elif percentage >= 40:
     print("Grade = E")
 else:
-    print("Grade = F")
+    print("Grade = F")'''
 
 #Q2:- Write a program to determine whether a given year is a leap year.
 
