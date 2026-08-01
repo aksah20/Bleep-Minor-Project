@@ -1,0 +1,7 @@
+Transaction ID,Type,Amount,Category
+T101,Income,50000,Salary
+T102,Expense,1500,Food
+T103,Expense,800,Transport
+T104,Income,2000,Freelancing
+T105,Expense,1200,Shopping
+T108,Income,50000,Income
